@@ -1,6 +1,6 @@
 /*==============================================================================
- Project: Intro-4-Functions             Activity: mirobo.tech/chrp4-intro-4
- Date:    May 16, 2023
+ Project: Intro-4-Functions             Activity: mirobo.tech/intro-4
+ Date:    August 11, 2023
  
  This introductory programming activity for the mirobo.tech CHRP4 demonstrates
  the use of functions and the ability to pass variables between the program's
